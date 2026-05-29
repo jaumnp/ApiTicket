@@ -1,0 +1,12 @@
+{
+  "name": "apiticket",
+  "version": "1.0.0",
+  "description": "Api de ticket de suporte, estudo.",
+  "license": "MIT",
+  "author": "João Paulo Pires",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  }
+}

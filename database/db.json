@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0bb98601-b5a1-424a-9c5f-735317be06ce",
+    "createdAt": "2026-05-29T00:57:29.914Z",
+    "equipment": "Computador",
+    "description": "Nao esta ligando",
+    "user_name": "Marcos",
+    "status": "closed",
+    "updatedAt": "2026-05-29T00:57:29.914Z"
+  },
+  {
+    "id": "e0141e27-7211-474a-bfbf-770db356803e",
+    "createdAt": "2026-05-29T11:42:47.677Z",
+    "equipment": "Tv",
+    "description": "Nao esta conectando no wifi",
+    "user_name": "Antonio",
+    "status": "open",
+    "updatedAt": "2026-05-29T11:42:47.677Z"
+  },
+  {
+    "id": "60ea1a09-0cf3-4f88-8b3f-88c72118f9dc",
+    "createdAt": "2026-05-29T11:43:57.209Z",
+    "equipment": "Notebook",
+    "description": "Formatar windows",
+    "user_name": "Junior",
+    "status": "closed",
+    "updatedAt": "2026-05-29T12:20:40.107Z"
+  }
+]
