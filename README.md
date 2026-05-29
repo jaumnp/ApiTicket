@@ -22,12 +22,12 @@ Este projeto foi desenvolvido com o foco em dominar os fundamentos do Back-end, 
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/jaumnp/api-ticket.git](https://github.com/jaumnp/api-ticket.git)
+git clone https://github.com/jaumnp/ApiTicket.git
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd api-ticket
+cd ApiTicket
 ```
 
 3. Inicie o servidor (Requer Node.js v18+):
